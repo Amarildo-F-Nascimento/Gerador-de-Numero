@@ -16,29 +16,29 @@ body {
 
 img {
     background-color:#f69904ea ;
-    width: 20%;
-    margin-top: 30px;
+    width: 10%;
+    margin-top: 25px;
 }
 
 h1 {
     font-style: normal;
     
-    font-size: 60px;
+    font-size: 50px;
     line-height: 50px;
     color: #0d0909;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 30px;
     margin-bottom: 36px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 20px;
     line-height: 38px;
     color: #050505;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 45px;
     margin-bottom: 36px;
 }
 
